@@ -2,7 +2,7 @@
 
 Team Details:
 Saloni Kumari (2210992232)
-Kavita Jora (2210991173)
+Kavita Jora (2210991773)
 Lakshay Mittal (2210991842)
 Riya Raj (2210992173)
 
