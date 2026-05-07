@@ -18,8 +18,8 @@ Efficiency
 Real-world applicability
 
 ## Algorithms Compared
-Logistic Regression
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
+Logistic Regression,
+Decision Tree,
+Random Forest,
+Support Vector Machine (SVM),
 Neural Networks (if included)
